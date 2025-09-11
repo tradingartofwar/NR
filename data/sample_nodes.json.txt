@@ -1,0 +1,14 @@
+@'
+[
+  {"strengths":["chef"],"challenges":["time scarcity"],"projects":["cookbook"],"interests":["cycling"],"values":["authenticity"],"fears":["irrelevance"],"pride":["mentoring"]},
+  {"strengths":["astronaut"],"challenges":["sleep cycles"],"projects":["habitat routines"],"interests":["gardening"],"values":["resilience"],"fears":["equipment failure"],"pride":["crew support"]},
+  {"strengths":["engineer"],"challenges":["communication"],"projects":["open-source tool"],"interests":["cycling","robotics"],"values":["elegance"],"fears":["wasted effort"],"pride":["clean design"]},
+  {"strengths":["homemaker"],"challenges":["budget"],"projects":["community swap"],"interests":["nutrition"],"values":["care"],"fears":["burnout"],"pride":["neighborhood network"]},
+  {"strengths":["politician"],"challenges":["polarization"],"projects":["civics nights"],"interests":["history"],"values":["dialogue"],"fears":["public distrust"],"pride":["youth program"]},
+  {"strengths":["chef"],"challenges":["scaling quality"],"projects":["farm-to-table"],"interests":["media","storytelling"],"values":["passion"],"fears":["compromise"],"pride":["local suppliers"]},
+  {"strengths":["scientist"],"challenges":["funding"],"projects":["citizen science"],"interests":["astronomy"],"values":["truth"],"fears":["misinformation"],"pride":["open data"]},
+  {"strengths":["teacher"],"challenges":["attention spans"],"projects":["maker club"],"interests":["music"],"values":["curiosity"],"fears":["disengagement"],"pride":["student growth"]},
+  {"strengths":["nurse"],"challenges":["night shifts"],"projects":["restoration group"],"interests":["yoga"],"values":["compassion"],"fears":["exhaustion"],"pride":["patient wins"]},
+  {"strengths":["entrepreneur"],"challenges":["focus"],"projects":["microgrants"],"interests":["cycling","coffee"],"values":["initiative"],"fears":["stagnation"],"pride":["first hires"]}
+]
+'@ | Set-Content C:\collective\data\sample_nodes.json

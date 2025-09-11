@@ -1,0 +1,1640 @@
+[
+  {
+    "id": "node-1",
+    "displayName": "Alice Example",
+    "email": "alice@example.com",
+    "cohortId": "demo",
+    "strengths": [
+      "chef"
+    ],
+    "challenges": [
+      "scaling recipes"
+    ],
+    "projects": [
+      "cookbook"
+    ],
+    "interests": [
+      "cycling"
+    ],
+    "values": [
+      "authenticity"
+    ],
+    "fears": [],
+    "pride": [
+      "mentoring young chefs"
+    ]
+  },
+  {
+    "id": "d08f26f8-8797-48ad-9a5d-0f4a12285534",
+    "displayName": "Alice",
+    "email": "you@example.com",
+    "cohortId": "demo",
+    "strengths": [
+      "chef"
+    ],
+    "challenges": [],
+    "projects": [],
+    "interests": [
+      "cycling"
+    ],
+    "values": [
+      "authenticity"
+    ],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "61d983aa-81cc-4c65-aa74-3363270cf047",
+    "displayName": "Bob",
+    "email": "bob@example.com",
+    "cohortId": "demo",
+    "strengths": [
+      "manufacturing ops"
+    ],
+    "challenges": [],
+    "projects": [],
+    "interests": [
+      "cycling"
+    ],
+    "values": [
+      "stewardship"
+    ],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "d4496953-8cda-4ccc-bdd3-6e18af9d67cc",
+    "displayName": "Alice",
+    "email": "you@example.com",
+    "cohortId": "demo",
+    "strengths": [
+      "chef"
+    ],
+    "challenges": [],
+    "projects": [],
+    "interests": [
+      "cycling"
+    ],
+    "values": [
+      "authenticity"
+    ],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "3a003ced-7190-44c7-a540-875bde3a429c",
+    "displayName": "Bob",
+    "email": "bob@example.com",
+    "cohortId": "demo",
+    "strengths": [
+      "manufacturing ops"
+    ],
+    "challenges": [],
+    "projects": [],
+    "interests": [
+      "cycling"
+    ],
+    "values": [
+      "stewardship"
+    ],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "13fefa95-6512-4755-85ae-92f130e27bf6",
+    "displayName": "County IT Lead",
+    "email": "you@example.com",
+    "cohortId": "demo",
+    "strengths": [
+      "IT leadership",
+      "enterprise networking",
+      "incident response"
+    ],
+    "challenges": [],
+    "projects": [
+      "Responsible for county IT operations (1M residents)"
+    ],
+    "interests": [],
+    "values": [
+      "public service",
+      "resilience"
+    ],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "fd57aa99-3bc0-4f56-a701-dca146fcb3ac",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "demo",
+    "strengths": [],
+    "challenges": [],
+    "projects": [
+      "hi"
+    ],
+    "interests": [],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "8a876ac3-a974-444b-82e3-9c29fb194673",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "chef",
+      "designer"
+    ],
+    "challenges": [
+      "time scarcity",
+      "latency"
+    ],
+    "projects": [
+      "cookbook",
+      "dashboard"
+    ],
+    "interests": [
+      "cycling",
+      "cooking"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "93bcf16f-afe2-43a8-ba05-b9bd17386884",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "engineer",
+      "teacher"
+    ],
+    "challenges": [
+      "funding",
+      "tools"
+    ],
+    "projects": [
+      "open-source",
+      "newsletter"
+    ],
+    "interests": [
+      "hiking",
+      "ai"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "8443fd2e-adb1-4099-ad52-8a90b9899f83",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "writer",
+      "gardener"
+    ],
+    "challenges": [
+      "focus",
+      "confidence"
+    ],
+    "projects": [
+      "community garden",
+      "simulator"
+    ],
+    "interests": [
+      "music",
+      "space"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "540b2b00-be3d-4796-8610-685cb3c24160",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "designer",
+      "musician"
+    ],
+    "challenges": [
+      "recruiting",
+      "health"
+    ],
+    "projects": [
+      "podcast",
+      "app"
+    ],
+    "interests": [
+      "robotics",
+      "photography"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "3198d135-359c-45fd-bfed-a73fd2623433",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "teacher",
+      "analyst"
+    ],
+    "challenges": [
+      "latency",
+      "childcare"
+    ],
+    "projects": [
+      "workshop",
+      "cookbook"
+    ],
+    "interests": [
+      "gardening",
+      "reading"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "29c32e3b-6f5f-487a-93b9-6b7dec470a7c",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "gardener",
+      "nurse"
+    ],
+    "challenges": [
+      "tools",
+      "burnout"
+    ],
+    "projects": [
+      "prototype",
+      "open-source"
+    ],
+    "interests": [
+      "cooking",
+      "cycling"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "dc2b0bab-2b90-464e-ba14-cf53aa06a063",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "musician",
+      "pilot"
+    ],
+    "challenges": [
+      "confidence",
+      "time scarcity"
+    ],
+    "projects": [
+      "dashboard",
+      "community garden"
+    ],
+    "interests": [
+      "ai",
+      "hiking"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "e1fcf217-84f3-4911-b4ab-958bd5909e1f",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "analyst",
+      "chef"
+    ],
+    "challenges": [
+      "health",
+      "funding"
+    ],
+    "projects": [
+      "newsletter",
+      "podcast"
+    ],
+    "interests": [
+      "space",
+      "music"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "a2925412-a56f-462b-b8de-1112161bca34",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "nurse",
+      "engineer"
+    ],
+    "challenges": [
+      "childcare",
+      "focus"
+    ],
+    "projects": [
+      "simulator",
+      "workshop"
+    ],
+    "interests": [
+      "photography",
+      "robotics"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "dad1482f-2119-42ef-88b8-0858cd9e2051",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "pilot",
+      "writer"
+    ],
+    "challenges": [
+      "burnout",
+      "recruiting"
+    ],
+    "projects": [
+      "app",
+      "prototype"
+    ],
+    "interests": [
+      "reading",
+      "gardening"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "7047cecc-7b74-47b7-9924-b9f382b98017",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "chef",
+      "designer"
+    ],
+    "challenges": [
+      "time scarcity",
+      "latency"
+    ],
+    "projects": [
+      "cookbook",
+      "dashboard"
+    ],
+    "interests": [
+      "cycling",
+      "cooking"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "1cef1c64-36eb-4b53-99da-8ce768486d44",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "engineer",
+      "teacher"
+    ],
+    "challenges": [
+      "funding",
+      "tools"
+    ],
+    "projects": [
+      "open-source",
+      "newsletter"
+    ],
+    "interests": [
+      "hiking",
+      "ai"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "b551c9ff-dafe-43bd-b893-7b3d0b4c5b71",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "writer",
+      "gardener"
+    ],
+    "challenges": [
+      "focus",
+      "confidence"
+    ],
+    "projects": [
+      "community garden",
+      "simulator"
+    ],
+    "interests": [
+      "music",
+      "space"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "ff65bd0e-b0b0-4492-8582-3b6a0c022bd5",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "designer",
+      "musician"
+    ],
+    "challenges": [
+      "recruiting",
+      "health"
+    ],
+    "projects": [
+      "podcast",
+      "app"
+    ],
+    "interests": [
+      "robotics",
+      "photography"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "ea7743c4-d462-4159-baff-1176bc1ba514",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "teacher",
+      "analyst"
+    ],
+    "challenges": [
+      "latency",
+      "childcare"
+    ],
+    "projects": [
+      "workshop",
+      "cookbook"
+    ],
+    "interests": [
+      "gardening",
+      "reading"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "b8f8d4c6-69af-43b8-86d1-56dc57d5a5e3",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "gardener",
+      "nurse"
+    ],
+    "challenges": [
+      "tools",
+      "burnout"
+    ],
+    "projects": [
+      "prototype",
+      "open-source"
+    ],
+    "interests": [
+      "cooking",
+      "cycling"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "fa3e3a5a-4558-4164-9af7-afe051c980ce",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "musician",
+      "pilot"
+    ],
+    "challenges": [
+      "confidence",
+      "time scarcity"
+    ],
+    "projects": [
+      "dashboard",
+      "community garden"
+    ],
+    "interests": [
+      "ai",
+      "hiking"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "143c0b92-8bf7-42b8-85bf-1d0a94606598",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "analyst",
+      "chef"
+    ],
+    "challenges": [
+      "health",
+      "funding"
+    ],
+    "projects": [
+      "newsletter",
+      "podcast"
+    ],
+    "interests": [
+      "space",
+      "music"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "b4730f9e-6b23-475f-bd7e-ea3d1b7316a3",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "nurse",
+      "engineer"
+    ],
+    "challenges": [
+      "childcare",
+      "focus"
+    ],
+    "projects": [
+      "simulator",
+      "workshop"
+    ],
+    "interests": [
+      "photography",
+      "robotics"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "1bcb6cba-ae0a-41fb-9c52-96b030f31afb",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "pilot",
+      "writer"
+    ],
+    "challenges": [
+      "burnout",
+      "recruiting"
+    ],
+    "projects": [
+      "app",
+      "prototype"
+    ],
+    "interests": [
+      "reading",
+      "gardening"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "00ce729c-5bec-4e43-8ec3-28ed2c9da0de",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "chef",
+      "designer"
+    ],
+    "challenges": [
+      "time scarcity",
+      "latency"
+    ],
+    "projects": [
+      "cookbook",
+      "dashboard"
+    ],
+    "interests": [
+      "cycling",
+      "cooking"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "01610ca7-25e9-4e46-aa4c-8a77fd34aafc",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "engineer",
+      "teacher"
+    ],
+    "challenges": [
+      "funding",
+      "tools"
+    ],
+    "projects": [
+      "open-source",
+      "newsletter"
+    ],
+    "interests": [
+      "hiking",
+      "ai"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "2ac7dc51-f6d9-4af0-979f-d200ad627345",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "writer",
+      "gardener"
+    ],
+    "challenges": [
+      "focus",
+      "confidence"
+    ],
+    "projects": [
+      "community garden",
+      "simulator"
+    ],
+    "interests": [
+      "music",
+      "space"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "c680b163-dbb6-45ee-aff5-487af3295ca5",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "designer",
+      "musician"
+    ],
+    "challenges": [
+      "recruiting",
+      "health"
+    ],
+    "projects": [
+      "podcast",
+      "app"
+    ],
+    "interests": [
+      "robotics",
+      "photography"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "8a4731b5-84bb-477f-8a8d-66d875ace282",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "teacher",
+      "analyst"
+    ],
+    "challenges": [
+      "latency",
+      "childcare"
+    ],
+    "projects": [
+      "workshop",
+      "cookbook"
+    ],
+    "interests": [
+      "gardening",
+      "reading"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "8afc1f7b-8064-48cb-a230-9618db034dfd",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "gardener",
+      "nurse"
+    ],
+    "challenges": [
+      "tools",
+      "burnout"
+    ],
+    "projects": [
+      "prototype",
+      "open-source"
+    ],
+    "interests": [
+      "cooking",
+      "cycling"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "f759ff18-61b3-4c2a-a76d-1a1a091e1c12",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "musician",
+      "pilot"
+    ],
+    "challenges": [
+      "confidence",
+      "time scarcity"
+    ],
+    "projects": [
+      "dashboard",
+      "community garden"
+    ],
+    "interests": [
+      "ai",
+      "hiking"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "4942590a-5863-4caf-9060-d9f2c34628f3",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "analyst",
+      "chef"
+    ],
+    "challenges": [
+      "health",
+      "funding"
+    ],
+    "projects": [
+      "newsletter",
+      "podcast"
+    ],
+    "interests": [
+      "space",
+      "music"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "f038cec1-957b-4ade-8538-302a417a2e01",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "nurse",
+      "engineer"
+    ],
+    "challenges": [
+      "childcare",
+      "focus"
+    ],
+    "projects": [
+      "simulator",
+      "workshop"
+    ],
+    "interests": [
+      "photography",
+      "robotics"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "bf86bcad-6d67-445c-b004-47530916b6b2",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "pilot",
+      "writer"
+    ],
+    "challenges": [
+      "burnout",
+      "recruiting"
+    ],
+    "projects": [
+      "app",
+      "prototype"
+    ],
+    "interests": [
+      "reading",
+      "gardening"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "d90768b4-bb12-46d4-bcec-f4435df1664a",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "chef",
+      "designer"
+    ],
+    "challenges": [
+      "time scarcity",
+      "latency"
+    ],
+    "projects": [
+      "cookbook",
+      "dashboard"
+    ],
+    "interests": [
+      "cycling",
+      "cooking"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "c2fae3bb-656a-414e-9761-4c058bc02396",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "engineer",
+      "teacher"
+    ],
+    "challenges": [
+      "funding",
+      "tools"
+    ],
+    "projects": [
+      "open-source",
+      "newsletter"
+    ],
+    "interests": [
+      "hiking",
+      "ai"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "232dc914-6b1b-4b5e-a822-9f8fb81923cf",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "writer",
+      "gardener"
+    ],
+    "challenges": [
+      "focus",
+      "confidence"
+    ],
+    "projects": [
+      "community garden",
+      "simulator"
+    ],
+    "interests": [
+      "music",
+      "space"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "18b605f2-abc7-4067-824c-81bf666487bc",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "designer",
+      "musician"
+    ],
+    "challenges": [
+      "recruiting",
+      "health"
+    ],
+    "projects": [
+      "podcast",
+      "app"
+    ],
+    "interests": [
+      "robotics",
+      "photography"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "6cea4fa5-93de-4054-accc-131e9003a1cc",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "teacher",
+      "analyst"
+    ],
+    "challenges": [
+      "latency",
+      "childcare"
+    ],
+    "projects": [
+      "workshop",
+      "cookbook"
+    ],
+    "interests": [
+      "gardening",
+      "reading"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "0720d0ed-fb65-4316-8010-aac0d2140688",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "gardener",
+      "nurse"
+    ],
+    "challenges": [
+      "tools",
+      "burnout"
+    ],
+    "projects": [
+      "prototype",
+      "open-source"
+    ],
+    "interests": [
+      "cooking",
+      "cycling"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "b726524c-34dd-4363-8a69-5e8147bc8329",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "musician",
+      "pilot"
+    ],
+    "challenges": [
+      "confidence",
+      "time scarcity"
+    ],
+    "projects": [
+      "dashboard",
+      "community garden"
+    ],
+    "interests": [
+      "ai",
+      "hiking"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "36221d86-d21f-4d35-b661-ae663d2154ef",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "analyst",
+      "chef"
+    ],
+    "challenges": [
+      "health",
+      "funding"
+    ],
+    "projects": [
+      "newsletter",
+      "podcast"
+    ],
+    "interests": [
+      "space",
+      "music"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "34cee0fa-828f-4002-9b39-3b10383e2ee6",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "nurse",
+      "engineer"
+    ],
+    "challenges": [
+      "childcare",
+      "focus"
+    ],
+    "projects": [
+      "simulator",
+      "workshop"
+    ],
+    "interests": [
+      "photography",
+      "robotics"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "42a9aed0-5b96-4807-8d37-0dc7841e599f",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "pilot",
+      "writer"
+    ],
+    "challenges": [
+      "burnout",
+      "recruiting"
+    ],
+    "projects": [
+      "app",
+      "prototype"
+    ],
+    "interests": [
+      "reading",
+      "gardening"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "dcf4e3d9-dc5a-4a35-a289-d5a34b239c77",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "chef",
+      "designer"
+    ],
+    "challenges": [
+      "time scarcity",
+      "latency"
+    ],
+    "projects": [
+      "cookbook",
+      "dashboard"
+    ],
+    "interests": [
+      "cycling",
+      "cooking"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "08a28762-5c14-42e4-98b0-c76edb29095a",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "engineer",
+      "teacher"
+    ],
+    "challenges": [
+      "funding",
+      "tools"
+    ],
+    "projects": [
+      "open-source",
+      "newsletter"
+    ],
+    "interests": [
+      "hiking",
+      "ai"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "b06ad008-ce3e-4000-ae2a-b0f00d5a869e",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "writer",
+      "gardener"
+    ],
+    "challenges": [
+      "focus",
+      "confidence"
+    ],
+    "projects": [
+      "community garden",
+      "simulator"
+    ],
+    "interests": [
+      "music",
+      "space"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "826eea55-bb71-4f33-bc89-99e2bc9270db",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "designer",
+      "musician"
+    ],
+    "challenges": [
+      "recruiting",
+      "health"
+    ],
+    "projects": [
+      "podcast",
+      "app"
+    ],
+    "interests": [
+      "robotics",
+      "photography"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "63037c7d-282e-40ad-8c2b-46d527883c03",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "teacher",
+      "analyst"
+    ],
+    "challenges": [
+      "latency",
+      "childcare"
+    ],
+    "projects": [
+      "workshop",
+      "cookbook"
+    ],
+    "interests": [
+      "gardening",
+      "reading"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "f53960a3-7abc-4b22-b684-e370eaae751a",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "gardener",
+      "nurse"
+    ],
+    "challenges": [
+      "tools",
+      "burnout"
+    ],
+    "projects": [
+      "prototype",
+      "open-source"
+    ],
+    "interests": [
+      "cooking",
+      "cycling"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "837ae685-a1c7-4ac0-bf55-3fefbf795259",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "musician",
+      "pilot"
+    ],
+    "challenges": [
+      "confidence",
+      "time scarcity"
+    ],
+    "projects": [
+      "dashboard",
+      "community garden"
+    ],
+    "interests": [
+      "ai",
+      "hiking"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "4593b2c9-2a2e-40f5-8d7f-9723d8c323a4",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "analyst",
+      "chef"
+    ],
+    "challenges": [
+      "health",
+      "funding"
+    ],
+    "projects": [
+      "newsletter",
+      "podcast"
+    ],
+    "interests": [
+      "space",
+      "music"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "f688ff39-8183-47b2-a241-129a41f989fd",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "nurse",
+      "engineer"
+    ],
+    "challenges": [
+      "childcare",
+      "focus"
+    ],
+    "projects": [
+      "simulator",
+      "workshop"
+    ],
+    "interests": [
+      "photography",
+      "robotics"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "6fcbc49d-2d6d-44c9-9cf7-8b18b15c2d53",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "pilot",
+      "writer"
+    ],
+    "challenges": [
+      "burnout",
+      "recruiting"
+    ],
+    "projects": [
+      "app",
+      "prototype"
+    ],
+    "interests": [
+      "reading",
+      "gardening"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "724ddb16-95f9-4e00-848e-8fca5165278d",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "chef",
+      "designer"
+    ],
+    "challenges": [
+      "time scarcity",
+      "latency"
+    ],
+    "projects": [
+      "cookbook",
+      "dashboard"
+    ],
+    "interests": [
+      "cycling",
+      "cooking"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "71cf9311-dc2a-4e6b-9abc-dbd8acd8ff0f",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "engineer",
+      "teacher"
+    ],
+    "challenges": [
+      "funding",
+      "tools"
+    ],
+    "projects": [
+      "open-source",
+      "newsletter"
+    ],
+    "interests": [
+      "hiking",
+      "ai"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "97ca34e4-9191-4b3e-8e02-f81bc1aefec0",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "writer",
+      "gardener"
+    ],
+    "challenges": [
+      "focus",
+      "confidence"
+    ],
+    "projects": [
+      "community garden",
+      "simulator"
+    ],
+    "interests": [
+      "music",
+      "space"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "0fb2367f-ae95-4f77-b56b-fe8b5d6c5625",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "designer",
+      "musician"
+    ],
+    "challenges": [
+      "recruiting",
+      "health"
+    ],
+    "projects": [
+      "podcast",
+      "app"
+    ],
+    "interests": [
+      "robotics",
+      "photography"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "212663b4-d4a3-4ef2-8b99-a00ac0b28565",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "teacher",
+      "analyst"
+    ],
+    "challenges": [
+      "latency",
+      "childcare"
+    ],
+    "projects": [
+      "workshop",
+      "cookbook"
+    ],
+    "interests": [
+      "gardening",
+      "reading"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "50dac497-9396-404b-a66e-ef5007584006",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "gardener",
+      "nurse"
+    ],
+    "challenges": [
+      "tools",
+      "burnout"
+    ],
+    "projects": [
+      "prototype",
+      "open-source"
+    ],
+    "interests": [
+      "cooking",
+      "cycling"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "35038968-9269-42e3-9f13-942326481305",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "musician",
+      "pilot"
+    ],
+    "challenges": [
+      "confidence",
+      "time scarcity"
+    ],
+    "projects": [
+      "dashboard",
+      "community garden"
+    ],
+    "interests": [
+      "ai",
+      "hiking"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "b15bdbda-7231-436f-8fb2-35107c00cb7d",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "analyst",
+      "chef"
+    ],
+    "challenges": [
+      "health",
+      "funding"
+    ],
+    "projects": [
+      "newsletter",
+      "podcast"
+    ],
+    "interests": [
+      "space",
+      "music"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "eb7e661a-e6bf-4276-a32c-8df039620ded",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "nurse",
+      "engineer"
+    ],
+    "challenges": [
+      "childcare",
+      "focus"
+    ],
+    "projects": [
+      "simulator",
+      "workshop"
+    ],
+    "interests": [
+      "photography",
+      "robotics"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  },
+  {
+    "id": "12311098-8b3b-4cce-bfef-519606a6ac72",
+    "displayName": "Anonymous",
+    "email": "",
+    "cohortId": "alpha",
+    "strengths": [
+      "pilot",
+      "writer"
+    ],
+    "challenges": [
+      "burnout",
+      "recruiting"
+    ],
+    "projects": [
+      "app",
+      "prototype"
+    ],
+    "interests": [
+      "reading",
+      "gardening"
+    ],
+    "values": [],
+    "fears": [],
+    "pride": []
+  }
+]

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Neural Resonance</title>
+  <link rel="stylesheet" href="style.css"/>
+  <style>
+    .controls { display:flex; gap:12px; align-items:center; margin: 12px 0; }
+    .controls input, .controls select { padding: 6px 8px; }
+    table { width:100%; border-collapse: collapse; }
+    th, td { border:1px solid #ddd; padding:8px; text-align:left; }
+    th { background:#fafafa; }
+    code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .ok { color: green; }
+    .err { color: crimson; }
+  </style>
+</head>
+<body>
+  <h1>Neural Resonance</h1>
+
+  <div id="summary"></div>
+
+  <div class="controls">
+    <label>Cohort:
+      <input id="cohort" value="alpha"/>
+    </label>
+    <label>Status:
+      <select id="state">
+        <option value="ghost">ghost (pending)</option>
+        <option value="admin_approved">admin_approved</option>
+        <option value="snoozed">snoozed</option>
+        <option value="solid">solid</option>
+        <option value="all">all</option>
+      </select>
+    </label>
+    <button id="refresh">Refresh</button>
+  </div>
+
+  <table id="queue">
+    <thead>
+      <tr>
+        <th>Suggestion</th>
+        <th>Node ⇄ Other</th>
+        <th>Cohort</th>
+        <th>State</th>
+        <th>Action</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <p id="msg"></p>
+
+  <script src="admin.js"></script>
+</body>
+</html>

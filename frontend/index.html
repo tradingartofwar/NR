@@ -1,0 +1,37 @@
+@'
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Collective Brain — Demo Cockpit</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Collective Brain — Demo</h1>
+
+  <section class="grid">
+    <div class="card">
+      <h2>Nodes</h2>
+      <textarea id="jsonInput" rows="10" placeholder='Paste one node JSON object and click "Submit Node"'></textarea>
+      <div class="row">
+        <button id="submitBtn">Submit Node</button>
+        <button id="resetBtn">Reset Demo</button>
+      </div>
+      <pre id="nodesView"></pre>
+    </div>
+
+    <div class="card">
+      <h2>Heatmap (counts)</h2>
+      <pre id="heatmapView"></pre>
+    </div>
+
+    <div class="card">
+      <h2>Overlaps (Suggestions)</h2>
+      <pre id="overlapsView"></pre>
+    </div>
+  </section>
+
+  <script src="app.js"></script>
+</body>
+</html>
+'@ | Set-Content C:\collective\frontend\index.html

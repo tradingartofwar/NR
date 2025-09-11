@@ -1,0 +1,30 @@
+
+---
+
+# 📄 `.gitignore`
+```gitignore
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env
+.env
+
+# Logs
+*.log
+events.log.jsonl
+
+# State files (local demo persistence)
+backend/state/*.json
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Build / temp
+dist/
+build/
+tmp/
+.cache/
