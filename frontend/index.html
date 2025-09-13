@@ -1,14 +1,15 @@
-@'
 <!doctype html>
 <html>
 <head>
   <meta charset="utf-8" />
-  <title>Collective Brain — Demo Cockpit</title>
+  <title>Neural Resonance — Demo Cockpit</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1>Collective Brain — Demo</h1>
+  <h1>Neural Resonance — Demo</h1>
 
+  <!-- Controls / Panels -->
   <section class="grid">
     <div class="card">
       <h2>Nodes</h2>
@@ -16,22 +17,40 @@
       <div class="row">
         <button id="submitBtn">Submit Node</button>
         <button id="resetBtn">Reset Demo</button>
+        <button id="loadBtn">Load Suggestions</button>
       </div>
-      <pre id="nodesView"></pre>
+      <pre id="nodesView" aria-live="polite"></pre>
     </div>
 
     <div class="card">
       <h2>Heatmap (counts)</h2>
-      <pre id="heatmapView"></pre>
+      <pre id="heatmapView" aria-live="polite"></pre>
     </div>
 
     <div class="card">
       <h2>Overlaps (Suggestions)</h2>
-      <pre id="overlapsView"></pre>
+      <pre id="overlapsView" aria-live="polite"></pre>
     </div>
   </section>
+
+  <!-- Visual Map Canvas -->
+  <section id="canvasWrap" class="card" aria-label="Resonance Map">
+    <div id="canvasToolbar">
+      <button id="reviewOpen">Open Review</button>
+      <button id="centerBtn">Center</button>
+    </div>
+    <div id="canvas" style="position:relative; width:100%; height:100%;"></div>
+  </section>
+
+  <!-- Review Token Modal -->
+  <div id="reviewModal" class="modal" role="dialog" aria-modal="true" aria-labelledby="reviewTitle">
+    <div class="modal-card">
+      <h3 id="reviewTitle">Paste Review Token</h3>
+      <input id="reviewTokenInput" placeholder="paste token here" />
+      <button id="reviewTokenSubmit">Open Review</button>
+    </div>
+  </div>
 
   <script src="app.js"></script>
 </body>
 </html>
-'@ | Set-Content C:\collective\frontend\index.html
